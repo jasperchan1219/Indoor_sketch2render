@@ -1,0 +1,4 @@
+2023-04-18 23:38:24,129 - CycleGAN - CRITICAL - results/2023_04_18__23_38_24
+2023-04-18 23:38:24,129 - CycleGAN - CRITICAL - Namespace(data_dir=PosixPath('data/chair_seatback'), project_name='sketch2render', ckpt_dir=PosixPath('results/2023_04_18__23_38_24'), img_size=256, use_identity=False, lambda_identity=1, lambda_cycle=10, batch_size=5, lr=1e-05, num_workers=4, num_epoch=50, device=device(type='mps'))
+2023-04-18 23:38:24,268 - CycleGAN - INFO - A data: 701
+2023-04-18 23:38:24,268 - CycleGAN - INFO - B data: 687
